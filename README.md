@@ -1,6 +1,6 @@
 # Chat-App
 
-A simple fullstack chat demo with React and Firebase.
+A simple fullstack chat app demo application with React and Firebase.
 
 If you face any problem starting the app try these
 
